@@ -561,7 +561,20 @@ Average Turnaround Time: 29.7 ms
 
 All processes have been executed successfully!
 ```
+### Final Comparison Output
+```
+======================================================
+           Scheduling Algorithms Comparison
+======================================================
+Algorithm     | Avg Waiting Time | Avg Turnaround Time
+------------------------------------------------------
+FCFS          |      24.9 ms     |       42.1 ms
+Round Robin   |      50.9 ms     |       55.0 ms
+Priority      |      21.8 ms     |       39.0 ms
+------------------------------------------------------
 
+Best Algorithm (Lowest Waiting Time): Priority Scheduling
+```
 ---
 
 ## Learning Outcomes
